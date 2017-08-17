@@ -1,2 +1,0 @@
-WIN½¡+X
-ÃüÁî£ºnetsh winsock reset
